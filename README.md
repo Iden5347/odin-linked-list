@@ -1,2 +1,2 @@
-# odin-list
-Linked list to practice queues and stuff in TOP
+# Ruby Lists
+Linked list to practice queues and stuff in The Odin Project
